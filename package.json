@@ -1,0 +1,29 @@
+{
+  "name": "egovparse_node",
+  "version": "1.0.0",
+  "description": "A node.js parser for the CT Open Data site",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "openscraping": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fionnmaccumhaill/egovparse_node"
+  },
+  "keywords": [
+    "open",
+    "data",
+    "node.js"
+  ],
+  "author": "Edward Foley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fionnmaccumhaill/egovparse_node/issues"
+  },
+  "homepage": "https://github.com/fionnmaccumhaill/egovparse_node"
+}
